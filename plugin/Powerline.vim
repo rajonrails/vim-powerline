@@ -21,7 +21,7 @@
 		\ , 'symbols'          : 'compatible'
 		\ , 'symbols_override' : {}
 		\ , 'dividers_override': []
-		\ , 'stl_path_style'   : 'relative'
+		\ , 'stl_path_style'   : 'full'
 		\ , 'cache_enabled'    : 1
 		\ })
 
